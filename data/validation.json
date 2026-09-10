@@ -1,0 +1,122 @@
+{
+  "units": "mm",
+  "format": "R2010 DXF",
+  "solids": 1643,
+  "closed_meshes": 1643,
+  "floor_counts": {
+    "1": 332,
+    "2": 126,
+    "3": 648,
+    "4": 350,
+    "7": 92,
+    "8": 95
+  },
+  "files": [
+    {
+      "file": "plan_01F.dxf",
+      "entities": 321,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "file": "plan_02F.dxf",
+      "entities": 136,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "file": "plan_03F.dxf",
+      "entities": 576,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "file": "plan_04F.dxf",
+      "entities": 332,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "file": "plan_07F.dxf",
+      "entities": 99,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "file": "plan_08F.dxf",
+      "entities": 99,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "file": "reference_01F.dxf",
+      "entities": 342,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "file": "reference_02F.dxf",
+      "entities": 420,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "file": "reference_03F.dxf",
+      "entities": 565,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "file": "reference_04F.dxf",
+      "entities": 458,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "file": "reference_07F.dxf",
+      "entities": 499,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "file": "reference_08F.dxf",
+      "entities": 298,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "file": "section_reference.dxf",
+      "entities": 384,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "file": "shochikuza_2d_all_floors.dxf",
+      "entities": 1563,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "file": "shochikuza_3d_mesh_fallback.dxf",
+      "entities": 1643,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    },
+    {
+      "file": "shochikuza_3d_solids.dxf",
+      "entities": 1649,
+      "audit_errors": 0,
+      "audit_fixes": 0
+    }
+  ],
+  "trace_contours": {
+    "1": 332,
+    "2": 410,
+    "3": 559,
+    "4": 451,
+    "7": 491,
+    "8": 291,
+    "0": 365
+  },
+  "autocad_application_tested": false
+}
